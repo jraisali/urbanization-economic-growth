@@ -1,6 +1,3 @@
-# urbanization-economic-growth
-Analysis of the relationship between urbanization and economic growth using World Bank data.
-
 # Growth and the City
 
 Urban Economics project studying the relationship between **urbanization and economic growth across countries**.
